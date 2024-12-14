@@ -1,8 +1,4 @@
-- 👋 Ola, meu nome é Matheus Nunes
-- 👀 Quero ser um programador Profissional
-- 🌱 No momento estou estudando C, Python e JavaScript
-- 💞️ Se você precisar de ajuda em projetos, estou disposto a trabalhar para aprender
-- 📫 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/matheus-nunes-757174189/)
+
  
 
 <!---
